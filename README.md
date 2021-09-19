@@ -4,7 +4,7 @@
 ---
 
 ###  介绍
-（引用自 QSCTech/zju-icicles ）
+（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
@@ -32,7 +32,7 @@
 
 ---
 ### 平台
-（引用自 QSCTech/zju-icicles ）
+（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
 为什么采用 GitHub 项目作为平台呢？我有以下一些考虑。
 
 QQ 群大多为年级和专业所分隔，无法长期共同地保有；况且群文件也缺乏组织。
