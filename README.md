@@ -1,6 +1,10 @@
 # College-Student-Resource-Library
 # 大学生资源共享库
-
+[![Stars](https://img.shields.io/github/stars/Knowledge-Sharers/College-Student-Resource-Library.svg)](https://github.com/Knowledge-Sharers/College-Student-Resource-Library/stargazers)
+[![Forks](https://img.shields.io/github/forks/Knowledge-Sharers/College-Student-Resource-Library.svg)](https://github.com/Knowledge-Sharers/College-Student-Resource-Library/members)
+![GitHub repo size](https://img.shields.io/github/repo-size/Knowledge-Sharers/College-Student-Resource-Library.svg)
+[![Issues](https://img.shields.io/github/issues/Knowledge-Sharers/College-Student-Resource-Library.svg)]()
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Knowledge-Sharers/College-Student-Resource-Library.svg)
 ---
 
 ###  介绍
