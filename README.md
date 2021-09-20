@@ -1,3 +1,4 @@
+本仓库的内容包括中国境内部分高校的各类课程复习资料、笔记、优秀作业代码。本仓库为非营利、永久免费的开源项目。
 # College-Student-Resource-Library
 # 大学生资源共享库
 [![Stars](https://img.shields.io/github/stars/Knowledge-Sharers/College-Student-Resource-Library.svg)](https://github.com/Knowledge-Sharers/College-Student-Resource-Library/stargazers)
@@ -6,49 +7,29 @@
 [![Issues](https://img.shields.io/github/issues/Knowledge-Sharers/College-Student-Resource-Library.svg)]()
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Knowledge-Sharers/College-Student-Resource-Library.svg)
 ---
+### 简单介绍
 
-###  介绍
-（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
+每一所大学，都有他们擅长的学科与技术，我希望这些资源能够在学校之间进行流通，而不仅仅在学校内部流传。此外，目前公开课程资料的大学数量依然很少，我想通过在这里罗列共享课程资源的大学，能够激起更多的大学学生加入共享资源的行列。我相信知识没有壁垒，思想的交流带来火花，学术的交流带来创造。以上是我的信念，也是我建立这个项目的原因。
 
-来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
+## 使用方法
 
-有些是需要在网上搜索的电子书，每次见到一门新课程，Google 一下教材名称，有的可以立即找到，有的却是要花费许多眼力；有些是历年试卷或者 A4 纸，前人精心收集制作，抱着能对他人有用的想法公开，却需要在各个群或者私下中摸索以至于从学长手中代代相传；有些是上完一门课才恍然领悟的技巧，原来这门课重点如此，当初本可以更轻松地完成得更好……
+[**使用指南**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md) 中介绍了多种仓库使用方法，包括：浏览器搜索、文件查找、资源下载、仓库 Clone、提交 Issue 等。
 
-我也曾很努力地收集各种课程资料，但到最后，某些重要信息的得到却往往依然是纯属偶然。这种状态时常令我感到后怕与不安。我也曾在课程结束后终于有了些许方法与总结，但这些想法无处诉说，最终只能把花费时间与精力才换来的经验耗散在了漫漫的遗忘之中。
+[**github指南**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/github%E6%8C%87%E5%8D%97.md)中介绍了github的注册和基本使用方法。
 
-我为这一年一年，这么多人孤军奋战的重复劳动感到不平。
+## 其余事项
 
-我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。
+[**贡献者名单**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95.md) 中陈列了为本仓库做出贡献的人，感谢你们，:heart:
 
-我希望只要是前人走过的弯路，后人就不必再走。 这是我的信念，也是我建立这个项目的原因。
+[**仓库协议**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/%E4%BB%93%E5%BA%93%E5%8D%8F%E8%AE%AE.md) 中包含了分享资源的规定、版权声明、免责声明和侵权处理等相关问题。
 
----
 
-### 为什么创建大学生资源共享库 ？
+### 联系方式
 
-每一所大学，都有他们擅长的学科与技术，我希望这些资源能够在学校之间进行流通，而不仅仅在学校内部流传。
+如果您有任何问题，请通过电子邮件flickerhope@foxmail.com 与我联系。
 
-此外，目前公开课程资料的大学数量依然很少，我想通过在这里罗列共享课程资源的大学，能够激起更多的大学学生加入共享资源的行列。
 
-我相信知识没有壁垒，思想的交流带来火花，学术的交流带来创造。
+**所有资料仅供交流！ 希望大家能合理的利用这些资源！**
+(本库部分内容摘录自 [Xovee/uestc-course](https://github.com/Xovee/uestc-course)仓库）。
 
-以上是我的信念，也是我建立这个项目的原因。
-
----
-### 平台
-（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
-为什么采用 GitHub 项目作为平台呢？我有以下一些考虑。
-
-QQ 群大多为年级和专业所分隔，无法长期共同地保有；况且群文件也缺乏组织。
-GitHub 项目可以使用目录进行文件组织，并且每个目录均可以在显示文件列表的同时显示一个 README，十分适合本项目的需求。
-GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便地对贡献的质量进行监督和调整。
-
----
-# 联系我们
-
-目前组 Knowledge-Sharers 管理员联系方式
-
-邮箱：flickerhope@foxmail.com
-
-欢迎大家加入。
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本仓库的资源默认采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可，有特别说明的除外。这意味着您可以对本仓库中所包含的资源进行复制、发行、修改和创作等，但不得用于商业性目的，在使用时须进行署名，且以相同或兼容的协议进行许可。如果存在资料有**侵权**问题，请私聊项目的维护人员予以删除
