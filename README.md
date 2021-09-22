@@ -13,15 +13,13 @@
 
 ## 使用方法
 
-[**使用指南**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md) 中介绍了多种仓库使用方法，包括：浏览器搜索、文件查找、资源下载、仓库 Clone、提交 Issue 等。
-
-[**github指南**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/github%E6%8C%87%E5%8D%97.md)中介绍了github的注册和基本使用方法。
+[**使用指南**](https://github.com/Knowledge-Sharers/College-Student-Resource-Library/blob/main/assets/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md) 中介绍了多种仓库使用方法，包括：浏览器搜索、文件查找、资源下载、仓库 Clone、提交 Issue 等。
 
 ## 其余事项
 
-[**贡献者名单**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95.md) 中陈列了为本仓库做出贡献的人，感谢你们，:heart:
+[**贡献者名单**](https://github.com/Knowledge-Sharers/College-Student-Resource-Library/blob/main/assets/%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95.md) 中陈列了为本仓库做出贡献的人，感谢你们，:heart:
 
-[**仓库协议**](https://github.com/SuZhangs/SDUST-Study-Library/blob/update/assest/%E4%BB%93%E5%BA%93%E5%8D%8F%E8%AE%AE.md) 中包含了分享资源的规定、版权声明、免责声明和侵权处理等相关问题。
+[**仓库协议**](https://github.com/Knowledge-Sharers/College-Student-Resource-Library/blob/main/assets/%E4%BB%93%E5%BA%93%E5%8D%8F%E8%AE%AE.md) 中包含了分享资源的规定、版权声明、免责声明和侵权处理等相关问题。
 
 
 ### 联系方式
