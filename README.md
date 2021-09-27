@@ -7,6 +7,9 @@
 [![Issues](https://img.shields.io/github/issues/Knowledge-Sharers/College-Student-Resource-Library.svg)]()
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Knowledge-Sharers/College-Student-Resource-Library.svg)
 ---
+
+欢呼~  :beer:  :beer: :beer: :beer:  **本库于2021年9月27日第一次完成所有学校遍历**，历时7天。 :heart:期间离不开大家的支持:heart: :beer::beer: :beer: 干杯！ :heart: :beer::octocat: 
+
 ###  目录
 
 华东地区大学目录 ：上海、江苏、浙江、安徽、福建、江西、山东、台湾  ** （已更新完毕）**
